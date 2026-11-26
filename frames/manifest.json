@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rev": "202611261433",
+  "sets": {
+    "desktop": {
+      "dir": "desktop",
+      "count": 48,
+      "ext": "webp",
+      "pad": 4,
+      "width": 800,
+      "height": 800
+    },
+    "mobile": {
+      "dir": "mobile",
+      "count": 48,
+      "ext": "webp",
+      "pad": 4,
+      "width": 520,
+      "height": 520
+    }
+  }
+}
